@@ -9,11 +9,11 @@
 
    ## Equipe
 
- - Lucas Oliveira Angelo.
- - Paulo Henrique Gama.
- - Pedro Alysson Sousa Rodrigues.
- - Pedro Henrique Santos da Silva.
- - Thamires de Souza Nascimento.
+ - [Lucas Oliveira Angelo](https://github.com/lukl213)
+ - [Paulo Henrique Gama]( https://github.com/heisenpaul)
+ - [Pedro Alysson Sousa Rodrigues].
+ - [Pedro Henrique Santos da Silva](https://github.com/henry-pedro)
+ - [Thamires de Souza Nascimento](https://github.com/ThaDias113)
 
 
 
