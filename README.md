@@ -11,7 +11,7 @@
 
  - [Lucas Oliveira Angelo](https://github.com/lukl213)
  - [Paulo Henrique Gama](https://github.com/heisenpaul)
- 
+ - [Pedro Alysson De Susa Rodrigues](https://github.com/pedropjtc)
  - [Pedro Henrique Santos da Silva](https://github.com/henry-pedro)
  - [Thamires de Souza Nascimento](https://github.com/ThaDias113)
 
